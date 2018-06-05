@@ -1,10 +1,10 @@
 ## Wordpress hospital management and free theme
 
-<a href="http://wordpresshospitaltheme.com">DEMO </a>
+<a href="https://stnc.github.io/wow-intro/">DEMO </a>
 
-<a href="https://github.com/stnc/wordress-free-medical-theme/archive/master.zip">Free Version Download</a>
+<a href="https://github.com/stnc/wordress-free-medical-theme/archive/master.zip">Free Download</a>
 
-<a href="http://wordpresshospitaltheme.com">Pro Version</a>
+<a href="https://stnc.github.io/wow-doc/">Documentation</a>
 
 ## Pro version 
 
@@ -16,11 +16,11 @@
 
  
 
-	Revolution Slider (Include save 25 $)  / PRO VERSION only 15$
+	Revolution Slider (Include save 25 $)  / Not warez 
 	
-	Visual Composer (Include save 45 $)  /  PRO VERSION only 15$
+	Visual Composer (Include save 45 $)  /  Not warez 
 	
-	Booking (Include save 29$)  / PRO VERSION only 15$
+	Booking (Include save 29$)  /  Not warez  
 	
 	Staff (Doctors and staff plugin)
 	
