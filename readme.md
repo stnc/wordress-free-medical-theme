@@ -6,11 +6,11 @@
 
 <a href="https://stnc.github.io/wow-doc/">Documentation</a>
 
-## Pro version 
+## FREE version 
 
 <img src="https://raw.githubusercontent.com/stnc/wordress-free-medical-theme/master/pic/main_image.jpg">
 
-## FREE version 
+
 
 <img src="https://raw.githubusercontent.com/stnc/wordress-free-medical-theme/master/pic/main_pictures.jpg">
 
