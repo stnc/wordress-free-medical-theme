@@ -1,6 +1,6 @@
 ## Wordpress hospital management and free theme
 
-<a href="https://stnc.github.io/wow-intro/">DEMO </a>
+<a href="https://stnc.github.io/wow-intro/">DEMO & BUY NOW (support) </a>
 
 <a href="https://github.com/stnc/wordress-free-medical-theme/archive/master.zip">Free Download</a>
 
