@@ -1,0 +1,30 @@
+WordPress Theme
+Content.xml - generated using the Worpress Content Exporter plugin
+Widget.json - generated using the Widget Importer Exporter plugin. Rename it from .wie to .json
+theme_options.txt - generated using the theme options frameworks such as Redux Framework, NHP Options Framework or Radium Framework
+Change the $theme_options_framework variable found in the init file to match your framework.
+
+
+Steps
+
+1- Download code from this repo, unzip and place wbc_importer folder into your Redux extensions directory. After this you should see the demo importer load in your Theme Options panel with a few examples showing.
+
+2- Inside wbc_importer/demo-data/ create a demo content folder. IE demo1, demo2, etc.
+
+3- Create content.xml file by exporting your WordPress content using the WordPress's export function tools > export
+
+4- (optional) Create a widgets.txt file using Widget Importer & Exporter plugin. It will export as .wie file, just rename file to widgets.txt
+
+5- (optional) Create theme-options.txt file, get content from your Import/Export of your Redux panel.
+
+6- Create a 320x240 screenshot image called screen-image.jpg, supports .png,.gif as well.
+
+7- That's All! Repeat steps 2-6 for each demo content set/import you want.
+
+Example Functions/Filters.
+
+Check example-functions.php file from this repo which also contains a example of how import RevSlider, Set Menus, and Set Home Page.
+
+Show Some Love
+
+Promoting the people that made this extension possible. :)

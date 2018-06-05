@@ -1,0 +1,1614 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+		<!-- generator="WordPress/4.9.4" created="2018-03-29 20:40" -->
+
+		<rss version="2.0"
+		     xmlns:excerpt="https://wordpress.org/export/1.2/excerpt/"
+		     xmlns:content="https://purl.org/rss/1.0/modules/content/"
+		     xmlns:wfw="https://wellformedweb.org/CommentAPI/"
+		     xmlns:dc="https://purl.org/dc/elements/1.1/"
+		     xmlns:wp="https://wordpress.org/export/1.2/">
+			<channel>
+				<title>Wow Hospital Theme</title>
+				<link>https://wow.chromthemes.com</link>
+				<description>Just another WordPress site</description>
+				<pubDate>Thu, 29 Mar 2018 20:40:57 +0000</pubDate>
+				<language>en-US</language>
+				<wp:wxr_version>1.2</wp:wxr_version>
+				<wp:base_site_url>https://wow.chromthemes.com</wp:base_site_url>
+				<wp:base_blog_url>https://wow.chromthemes.com</wp:base_blog_url>
+
+					<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[support@chromthemes.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+									<wp:term>
+						<wp:term_id><![CDATA[36]]></wp:term_id>
+						<wp:term_taxonomy><![CDATA[mp-event_category]]></wp:term_taxonomy>
+						<wp:term_slug><![CDATA[airway-lungs]]></wp:term_slug>
+						<wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Airway &amp; Lungs]]></wp:term_name>    </wp:term>
+									<wp:term>
+						<wp:term_id><![CDATA[28]]></wp:term_id>
+						<wp:term_taxonomy><![CDATA[mp-event_category]]></wp:term_taxonomy>
+						<wp:term_slug><![CDATA[airway-lungs-programs-and-services]]></wp:term_slug>
+						<wp:term_parent><![CDATA[airway-lungs]]></wp:term_parent><wp:term_name><![CDATA[Airway &amp; Lungs // Programs and Services]]></wp:term_name>    </wp:term>
+									<wp:term>
+						<wp:term_id><![CDATA[26]]></wp:term_id>
+						<wp:term_taxonomy><![CDATA[mp-event_category]]></wp:term_taxonomy>
+						<wp:term_slug><![CDATA[allergies-immunology]]></wp:term_slug>
+						<wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Allergies &amp; Immunology]]></wp:term_name>    </wp:term>
+									<wp:term>
+						<wp:term_id><![CDATA[30]]></wp:term_id>
+						<wp:term_taxonomy><![CDATA[mp-event_category]]></wp:term_taxonomy>
+						<wp:term_slug><![CDATA[allergies-immunology-programs-and-services]]></wp:term_slug>
+						<wp:term_parent><![CDATA[allergies-immunology]]></wp:term_parent><wp:term_name><![CDATA[Allergies &amp; Immunology // Programs and Services]]></wp:term_name>    </wp:term>
+									<wp:term>
+						<wp:term_id><![CDATA[58]]></wp:term_id>
+						<wp:term_taxonomy><![CDATA[mp-event_category]]></wp:term_taxonomy>
+						<wp:term_slug><![CDATA[behavioral-health]]></wp:term_slug>
+						<wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Behavioral Health]]></wp:term_name>    </wp:term>
+									<wp:term>
+						<wp:term_id><![CDATA[57]]></wp:term_id>
+						<wp:term_taxonomy><![CDATA[mp-event_category]]></wp:term_taxonomy>
+						<wp:term_slug><![CDATA[behavioral-health-programs-and-services]]></wp:term_slug>
+						<wp:term_parent><![CDATA[behavioral-health]]></wp:term_parent><wp:term_name><![CDATA[Behavioral Health // Programs and Services]]></wp:term_name>    </wp:term>
+									<wp:term>
+						<wp:term_id><![CDATA[32]]></wp:term_id>
+						<wp:term_taxonomy><![CDATA[mp-event_category]]></wp:term_taxonomy>
+						<wp:term_slug><![CDATA[blood-marrow]]></wp:term_slug>
+						<wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Blood &amp; Marrow]]></wp:term_name>    </wp:term>
+									<wp:term>
+						<wp:term_id><![CDATA[34]]></wp:term_id>
+						<wp:term_taxonomy><![CDATA[mp-event_category]]></wp:term_taxonomy>
+						<wp:term_slug><![CDATA[blood-marrow-programs-and-services]]></wp:term_slug>
+						<wp:term_parent><![CDATA[blood-marrow]]></wp:term_parent><wp:term_name><![CDATA[Blood &amp; Marrow // Programs and Services]]></wp:term_name>    </wp:term>
+									<wp:term>
+						<wp:term_id><![CDATA[38]]></wp:term_id>
+						<wp:term_taxonomy><![CDATA[mp-event_category]]></wp:term_taxonomy>
+						<wp:term_slug><![CDATA[bones-joints-orthopaedics]]></wp:term_slug>
+						<wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Bones &amp; Joints (orthopaedics)]]></wp:term_name>    </wp:term>
+									<wp:term>
+						<wp:term_id><![CDATA[40]]></wp:term_id>
+						<wp:term_taxonomy><![CDATA[mp-event_category]]></wp:term_taxonomy>
+						<wp:term_slug><![CDATA[bones-joints-orthopaedics-programs-and-services]]></wp:term_slug>
+						<wp:term_parent><![CDATA[bones-joints-orthopaedics]]></wp:term_parent><wp:term_name><![CDATA[Bones &amp; Joints (orthopaedics) // Programs and Services]]></wp:term_name>    </wp:term>
+				
+
+				<generator>httpss://wordpress.org/?v=4.9.4</generator>
+
+											<item>
+								<title>Pediatrics University Of Arizona Doctor Patient</title>
+								<link>https://wow.chromthemes.com/pediatrics-university-of-arizona-doctor-patient/</link>
+								<pubDate>Tue, 15 Aug 2017 20:11:40 +0000</pubDate>
+								<dc:creator><![CDATA[admin]]></dc:creator>
+								<guid isPermaLink="false">https://wow.chromthemes.com/wp-content/uploads/2017/08/chFwPediatrics-University-Of-Arizona-Doctor-Patient-2299456.jpg</guid>
+								<description></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+								<excerpt:encoded><![CDATA[Pediatrics University Of Arizona Doctor Patient]]></excerpt:encoded>
+								<wp:post_id>139</wp:post_id>
+								<wp:post_date><![CDATA[2017-08-15 20:11:40]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2017-08-15 20:11:40]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[open]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[pediatrics-university-of-arizona-doctor-patient]]></wp:post_name>
+								<wp:status><![CDATA[inherit]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[attachment]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																	<wp:attachment_url><![CDATA[https://wow.chromthemes.com/wp-content/uploads/2017/08/chFwPediatrics-University-Of-Arizona-Doctor-Patient-2299456.jpg]]></wp:attachment_url>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+										<wp:meta_value><![CDATA[2017/08/chFwPediatrics-University-Of-Arizona-Doctor-Patient-2299456.jpg]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:850;s:4:"file";s:71:"2017/08/chFwPediatrics-University-Of-Arizona-Doctor-Patient-2299456.jpg";s:5:"sizes";a:11:{s:9:"thumbnail";a:4:{s:4:"file";s:71:"chFwPediatrics-University-Of-Arizona-Doctor-Patient-2299456-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:71:"chFwPediatrics-University-Of-Arizona-Doctor-Patient-2299456-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:71:"chFwPediatrics-University-Of-Arizona-Doctor-Patient-2299456-768x510.jpg";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:72:"chFwPediatrics-University-Of-Arizona-Doctor-Patient-2299456-1024x680.jpg";s:5:"width";i:1024;s:6:"height";i:680;s:9:"mime-type";s:10:"image/jpeg";}s:18:"CHfw-staffPostSize";a:4:{s:4:"file";s:71:"chFwPediatrics-University-Of-Arizona-Doctor-Patient-2299456-320x213.jpg";s:5:"width";i:320;s:6:"height";i:213;s:9:"mime-type";s:10:"image/jpeg";}s:15:"wow-widget-post";a:4:{s:4:"file";s:69:"chFwPediatrics-University-Of-Arizona-Doctor-Patient-2299456-80x80.jpg";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}s:36:"wow-BlogList_MediumSmall_SidebarOpen";a:4:{s:4:"file";s:71:"chFwPediatrics-University-Of-Arizona-Doctor-Patient-2299456-860x500.jpg";s:5:"width";i:860;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}s:24:"wow-BlogList_MediumLarge";a:4:{s:4:"file";s:72:"chFwPediatrics-University-Of-Arizona-Doctor-Patient-2299456-1100x530.jpg";s:5:"width";i:1100;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";}s:18:"wow-AllSidebarOpen";a:4:{s:4:"file";s:71:"chFwPediatrics-University-Of-Arizona-Doctor-Patient-2299456-430x300.jpg";s:5:"width";i:430;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:34:"wow-Timeline_zigzag1_zigzag2_Large";a:4:{s:4:"file";s:71:"chFwPediatrics-University-Of-Arizona-Doctor-Patient-2299456-570x380.jpg";s:5:"width";i:570;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:31:"wow-masonry-BlogListSmall-Large";a:4:{s:4:"file";s:71:"chFwPediatrics-University-Of-Arizona-Doctor-Patient-2299456-420x370.jpg";s:5:"width";i:420;s:6:"height";i:370;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:92:"https://maxpixel.freegreatpicture.com/Pediatrics-University-Of-Arizona-Doctor-Patient-2299456";s:6:"camera";s:0:"";s:7:"caption";s:47:"Pediatrics University Of Arizona Doctor Patient";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:21:"Copyright by MaxPixel";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:47:"Pediatrics University Of Arizona Doctor Patient";s:11:"orientation";s:1:"0";s:8:"keywords";a:1:{i:0;s:77:"Doctor Patient,University Of Arizona,Pediatrics,MaxPixel,FreeGreatPicture.com";}}}]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>chFw_the-device-1822457_1280.jpg</title>
+								<link>https://wow.chromthemes.com/chfw-the-device-1822457-1280-jpg/</link>
+								<pubDate>Wed, 16 Aug 2017 20:56:05 +0000</pubDate>
+								<dc:creator><![CDATA[admin]]></dc:creator>
+								<guid isPermaLink="false">https://wow.chromthemes.com/wp-content/uploads/revslider/hp11/chFw_the-device-1822457_1280.jpg</guid>
+								<description></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>214</wp:post_id>
+								<wp:post_date><![CDATA[2017-08-16 20:56:05]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2017-08-16 20:56:05]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[chfw-the-device-1822457-1280-jpg]]></wp:post_name>
+								<wp:status><![CDATA[inherit]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[attachment]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																	<wp:attachment_url><![CDATA[https://wow.chromthemes.com/wp-content/uploads/revslider/hp11/chFw_the-device-1822457_1280.jpg]]></wp:attachment_url>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+										<wp:meta_value><![CDATA[revslider/hp11/chFw_the-device-1822457_1280.jpg]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:708;s:4:"file";s:47:"revslider/hp11/chFw_the-device-1822457_1280.jpg";s:5:"sizes";a:11:{s:9:"thumbnail";a:4:{s:4:"file";s:40:"chFw_the-device-1822457_1280-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:40:"chFw_the-device-1822457_1280-300x166.jpg";s:5:"width";i:300;s:6:"height";i:166;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:40:"chFw_the-device-1822457_1280-768x425.jpg";s:5:"width";i:768;s:6:"height";i:425;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:41:"chFw_the-device-1822457_1280-1024x566.jpg";s:5:"width";i:1024;s:6:"height";i:566;s:9:"mime-type";s:10:"image/jpeg";}s:18:"CHfw-staffPostSize";a:4:{s:4:"file";s:40:"chFw_the-device-1822457_1280-320x177.jpg";s:5:"width";i:320;s:6:"height";i:177;s:9:"mime-type";s:10:"image/jpeg";}s:15:"wow-widget-post";a:4:{s:4:"file";s:38:"chFw_the-device-1822457_1280-80x80.jpg";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}s:36:"wow-BlogList_MediumSmall_SidebarOpen";a:4:{s:4:"file";s:40:"chFw_the-device-1822457_1280-860x500.jpg";s:5:"width";i:860;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}s:24:"wow-BlogList_MediumLarge";a:4:{s:4:"file";s:41:"chFw_the-device-1822457_1280-1100x530.jpg";s:5:"width";i:1100;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";}s:18:"wow-AllSidebarOpen";a:4:{s:4:"file";s:40:"chFw_the-device-1822457_1280-430x300.jpg";s:5:"width";i:430;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:34:"wow-Timeline_zigzag1_zigzag2_Large";a:4:{s:4:"file";s:40:"chFw_the-device-1822457_1280-570x380.jpg";s:5:"width";i:570;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:31:"wow-masonry-BlogListSmall-Large";a:4:{s:4:"file";s:40:"chFw_the-device-1822457_1280-420x370.jpg";s:5:"width";i:420;s:6:"height";i:370;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:3:"7.1";s:6:"credit";s:0:"";s:6:"camera";s:10:"NIKON D810";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"14";s:3:"iso";s:3:"720";s:13:"shutter_speed";s:6:"0.0125";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Pediatric Agammaglobulinemia</title>
+								<link>https://wow.chromthemes.com/departmans/pediatric-agammaglobulinemia/</link>
+								<pubDate>Wed, 16 Aug 2017 22:01:58 +0000</pubDate>
+								<dc:creator><![CDATA[admin]]></dc:creator>
+								<guid isPermaLink="false">https://wow.chromthemes.com/?post_type=mp-event&#038;p=249</guid>
+								<description></description>
+								<content:encoded><![CDATA[Lorem ipsum dolor sit amet, pri ut saepe iisque inciderint, duo ei constituto adipiscing, at modo torquatos vim. Everti tractatos duo cu. Sit illud labitur et. Enim wisi constituto per ne, laudem epicuri evertitur in quo.
+
+Iudicabit referrentur vituperatoribus mea ut, an vix prompta contentiones. Dicunt feugait eos at, augue efficiendi in nec. Eu cum nostrud discere, vocent voluptua duo an. Dicat ullum est ei.
+
+Ex duo duis facer referrentur. Pri iusto expetendis reprimique ea, iudico complectitur ei vis, an ius affert perfecto. Pro ut laudem reprimique. Assum atomorum ex pro.
+
+Mel ei doming reprimique definitionem. Duo modo wisi quaeque in, te timeam numquam nam, ex sumo solet pri. Ridens verterem sea ad, ut mel ubique insolens. Affert bonorum appetere et ius, mutat veniam splendide in mei. Cu nec malis hendrerit prodesset, ullum oratio complectitur ea nam.
+
+Ut quem stet nominati sed, vis et quidam sententiae. Id vix ullum sonet, te ius etiam elitr iuvaret. Id sea iriure expetenda constituam, at cum utroque maluisset molestiae. Aeterno quaerendum nec et.
+
+Eos tollit nominati ne. Cu quem corrumpit interesset mel. Facete nusquam ius cu, no quo audire omittam, iusto causae sadipscing usu no. Quo quodsi labores voluptaria ex, ei sed prima scaevola.
+
+No mei labore diceret. Case timeam verterem ex usu, nec eirmod urbanitas interpretaris et. Id nemore omnesque sea. Aliquid inimicus repudiandae pro ut, ex eos dicit malorum. Malis atomorum mediocrem pri id, per ne paulo veritus.
+
+Aliquip oblique fabellas cum eu, his everti oportere id. Mei an equidem veritus sententiae, vim dolorum lobortis no, duo ex putant aeterno. Quo ex suas veri suscipiantur, eum virtute nominati te, ad sea iisque maiestatis honestatis. Sea ei magna liber definitionem, vix amet instructior an.
+
+Eu vim sint alienum, nec ea ubique aperiri facilisis. Omnis dolorem elaboraret nam ne, in perfecto vituperata duo. Vel ut possit tacimates voluptatum, option mediocritatem te mea, homero detracto ad his. Duo te porro aeque dissentiet, ex aeque ubique adipiscing usu. Has forensibus accommodare ex. Id mei luptatum percipitur, stet homero pro ut. Vim alii esse fabulas ne.
+
+Omnis moderatius cu pri, his elit malorum mnesarchum te. An mei vidisse suscipiantur, vim quas quaerendum cu, ut mea invidunt scriptorem. Causae option molestie ex qui. Quem constituto percipitur eam ei, est ea aeque percipitur. Oporteat qualisque signiferumque eos et, ne nam esse probo interpretaris.]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>249</wp:post_id>
+								<wp:post_date><![CDATA[2017-08-16 22:01:58]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2017-08-16 22:01:58]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[open]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[pediatric-agammaglobulinemia]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-event]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																		<category domain="mp-event_category" nicename="allergies-immunology-programs-and-services"><![CDATA[Allergies &amp; Immunology // Programs and Services]]></category>
+
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+										<wp:meta_value><![CDATA[1]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(230, 145, 56)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(249, 203, 156)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(0, 0, 0)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(0, 0, 0)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[CHfw_mpevent_departmentForSingleEventPage]]></wp:meta_key>
+										<wp:meta_value><![CDATA[27,27,27,27,27,27,27,27,27,27,27]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+										<wp:meta_value><![CDATA[273]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[CHfw-PostViewsCount]]></wp:meta_key>
+										<wp:meta_value><![CDATA[3]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+										<wp:meta_value><![CDATA[primary-care]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+										<wp:meta_value><![CDATA[false]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Cystic Fibrosis</title>
+								<link>https://wow.chromthemes.com/departmans/cystic-fibrosis-ol/</link>
+								<pubDate>Wed, 16 Aug 2017 22:02:20 +0000</pubDate>
+								<dc:creator><![CDATA[admin]]></dc:creator>
+								<guid isPermaLink="false">https://wow.chromthemes.com/?post_type=mp-event&#038;p=250</guid>
+								<description></description>
+								<content:encoded><![CDATA[Lorem ipsum dolor sit amet, pertinacia dissentiet ea pri, ridens concludaturque ad vim, ei docendi assentior mei. Qui ad adhuc mundi, aeque timeam in usu, audiam urbanitas sed ut. Maluisset signiferumque no cum, sea ei justo postea reprehendunt, ex prima facete consetetur vix. Quo fugit salutandi referrentur eu.
+
+Ex qui utinam discere elaboraret. Eos an minim referrentur. Eu unum convenire sit, omnes urbanitas ex eum, his et probo putant pertinacia. Legere delicata dissentiet vix ut. Cu vel dico dolorem corpora.
+
+Sea iriure adipisci voluptatum eu. Sit meis ignota nostrum te, inermis postulant accommodare vix eu. Delicata corrumpit vel id. Legendos ullamcorper te eam, eum an possit adipisci rationibus, est percipit luptatum reprimique cu. Tale euismod te his, aliquam eleifend maiestatis usu et.
+
+Probo aliquam qualisque id sed. Mei ex tritani debitis, odio temporibus per ut, primis iisque nominati ei vel. Cu quo ullum deseruisse suscipiantur, cu eos quodsi corpora, cum nibh tantas ea. Ne nostrud percipit mediocrem sit. Libris accusam appareat nam no.
+
+Ex ius ipsum dolore. Detracto expetendis argumentum has ut. Pro falli facilisis ex, eius doming dolorum has ex. Meis legendos deseruisse vel ei, quando accumsan duo eu. Vis debet tantas ea. Lobortis sensibus id vim, quando recusabo vulputate sit ei, at his fugit dictas oportere.
+
+Lucilius maiestatis nec in. Veri dicunt nusquam duo ea, nec omnis constituam liberavisse ad. Mundi interesset no mei. Quem option voluptatum in vim, exerci mucius ea nec. His ne doctus tincidunt appellantur. Te mel liber principes necessitatibus.
+
+Eos nisl ipsum cu, nec ex homero qualisque adolescens. Viris ullamcorper voluptatibus an has. Ei indoctum pertinacia vel. Mel et nusquam dissentias, an qui habeo iracundia repudiandae, omnes adipisci aliquando nam ea.
+
+Cibo nostro inciderint vis ut. Has utamur delenit rationibus ut, cum id scripta torquatos dissentiet. Cu agam meliore petentium pri, temporibus necessitatibus nec in. Lorem invenire ex nam, ne tibique deleniti laboramus eam, nec ne lorem mnesarchum. Melius aperiam facilis mei ad.
+
+Oporteat democritum elaboraret mea eu, cibo ornatus vel ei, ut voluptua atomorum constituto sea. Nec ne quem minim deterruisset, omittam sapientem per ei. Mazim prompta voluptatum sea an, omnes phaedrum vix te. Ea reque utroque duo, tale debet dolores mea ex. Vitae noster erroribus cu est, sea suas vituperata efficiendi ei.
+
+Vix ei decore maiestatis sententiae. Cu scripta detracto probatus eum, eos eu propriae consetetur. Te audire utroque vix, oportere appellantur dissentiunt sea ne, nisl congue accusam quo an. Sea ex illud noluisse. Ne qui inani postea melius.]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>250</wp:post_id>
+								<wp:post_date><![CDATA[2017-08-16 22:02:20]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2017-08-16 22:02:20]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[open]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[cystic-fibrosis-ol]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-event]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																		<category domain="mp-event_category" nicename="airway-lungs-programs-and-services"><![CDATA[Airway &amp; Lungs // Programs and Services]]></category>
+
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+										<wp:meta_value><![CDATA[1]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(142, 124, 195)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(180, 167, 214)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(0, 0, 0)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(0, 0, 0)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[CHfw_mpevent_departmentForSingleEventPage]]></wp:meta_key>
+										<wp:meta_value><![CDATA[29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29,29]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+										<wp:meta_value><![CDATA[272]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[CHfw-PostViewsCount]]></wp:meta_key>
+										<wp:meta_value><![CDATA[12]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+										<wp:meta_value><![CDATA[dental-care]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+										<wp:meta_value><![CDATA[cystic-fibrosis]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+										<wp:meta_value><![CDATA[false]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Asthma</title>
+								<link>https://wow.chromthemes.com/departmans/asthma/</link>
+								<pubDate>Wed, 16 Aug 2017 22:02:43 +0000</pubDate>
+								<dc:creator><![CDATA[admin]]></dc:creator>
+								<guid isPermaLink="false">https://wow.chromthemes.com/?post_type=mp-event&#038;p=251</guid>
+								<description></description>
+								<content:encoded><![CDATA[The first person to document a surgery was the 6th Century BC Indian physician-surgeon, Sushrutha. He specialised in cosmetic plastic surgery and had documented even an operation of open rhinoplasty[1] His magnum opus Suśruta-saṃhitā is one of the most important surviving ancient treatises on medicine and is considered a foundational text of Ayurveda and surgery. The treatise addresses all aspects of general medicine, but the translator G. D. Singhal dubbed Suśruta "the father of surgical intervention" on account of the extraordinarily accurate and detailed accounts of surgery to be found in the work.[2]
+
+In Europe, surgery was mostly associated with barber-surgeons who also used their hair-cutting tools to undertake surgical procedures, often at the battlefield and also for their royal paymasters. With advances in medicine and physiology, the professions of barbers and surgeons diverged; by the 19th century barber-surgeons had virtually disappeared, and surgeons were almost invariably qualified doctors who had specialized in surgery. Surgeon continued, however, to be used as the title for military medical officers until the end of the 19th century, and the title of Surgeon General continues to exist for both senior military medical officers and senior government public health
+httpss://en.0wikipedia.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvU3VyZ2Vvbg]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>251</wp:post_id>
+								<wp:post_date><![CDATA[2017-08-16 22:02:43]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2017-08-16 22:02:43]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[open]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[asthma]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-event]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																		<category domain="mp-event_category" nicename="airway-lungs-programs-and-services"><![CDATA[Airway &amp; Lungs // Programs and Services]]></category>
+
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+										<wp:meta_value><![CDATA[1]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(106, 168, 79)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(147, 196, 125)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(0, 0, 0)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(0, 0, 0)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_oembed_5c605b75cbc5e60cedbfb269f4c4a7c3]]></wp:meta_key>
+										<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[CHfw_mpevent_departmentForSingleEventPage]]></wp:meta_key>
+										<wp:meta_value><![CDATA[31,31,31,31,31]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+										<wp:meta_value><![CDATA[214]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[CHfw-PostViewsCount]]></wp:meta_key>
+										<wp:meta_value><![CDATA[20]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+										<wp:meta_value><![CDATA[surgery-and-pyhsicians]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+										<wp:meta_value><![CDATA[false]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Allergies &amp; Immunology</title>
+								<link>https://wow.chromthemes.com/departmans/allergies-immunology/</link>
+								<pubDate>Wed, 16 Aug 2017 22:03:02 +0000</pubDate>
+								<dc:creator><![CDATA[admin]]></dc:creator>
+								<guid isPermaLink="false">https://wow.chromthemes.com/?post_type=mp-event&#038;p=252</guid>
+								<description></description>
+								<content:encoded><![CDATA[Lorem ipsum dolor sit amet, reque theophrastus nam ne, mel in graece appareat, per ad probo suscipit omittantur. Te has inani appetere cotidieque, error atomorum voluptatibus usu et. Ex alii equidem incorrupte vix, te est habemus facilisi moderatius. Vidit saepe quidam ex sea. Liber tempor sadipscing id cum.
+
+Vix congue causae fuisset ea, cu alterum fabulas pertinacia mea. Admodum appareat similique in eum, eu case inani propriae mei, quo eros erant recusabo an. Vim eu alterum intellegam, eum eius nihil ei, cibo sapientem eum ad. Ea blandit laboramus eum, tale solet iudicabit per cu, ne mel dictas phaedrum. Vim at dicam ignota. No cibo persequeris mei, vis mucius molestiae at. Omnes pertinacia mel ut.
+
+Nam debet omnium persecuti in, prima praesent cu est. Vix ex possit oporteat. Ad qui tota convenire qualisque, no est pertinax adolescens reprimique. Et vix corrumpit consectetuer. Ex has debet everti cotidieque.
+
+Ut quod efficiantur nam, eu has debet omnesque omittantur, omnis accusamus neglegentur pri in. Complectitur reprehendunt at ius, omnium mandamus abhorreant no duo. Eum putant quodsi id, ei eum dicta expetendis. Sed ex brute cetero discere. Amet iuvaret tractatos ne per, eripuit equidem explicari nam in, his eu justo solet audire.
+
+Mei ex accumsan gloriatur, audire denique nec no. Te quo sale numquam appareat, ad has dicant adversarium, his ad natum erant principes. Vix ea accumsan tacimates, vim at essent deserunt. Salutandi inciderint vix ei. Ea vel novum omnes patrioque, ex mei melius legimus.
+
+Ne pri legere altera. Sea solet putant malorum ei, in sanctus gloriatur est, modo intellegat nam ei. Diceret euripidis ei sea, qui eu eros corpora sensibus, in nam putent atomorum. Mutat porro tibique mei no, usu liber doctus ei. Vix copiosae percipit in, ei possim conceptam complectitur duo.
+
+Sea congue consul eleifend ex, elitr laboramus id eam. Dolorem repudiare vel et, eum nisl tritani appetere an. Has labore eligendi definitiones id, eleifend salutandi ei has. Ei veniam postea accusamus eam. An per lucilius moderatius, esse ubique rationibus te vim. Inermis imperdiet in usu, pri ne aliquid lucilius.
+
+Possit nemore mentitum in est, usu ei sumo dictas atomorum. Numquam veritus cum ea, corpora noluisse eos ut. Cu placerat mandamus conceptam mea. No cum regione fuisset moderatius. At vix eruditi facilisis voluptatum, eu ius adversarium delicatissimi. Sed ne novum urbanitas, ei mea error homero, est docendi detraxit urbanitas te.
+
+Quo an tollit perfecto, quo luptatum electram at. Vis ea hinc eirmod comprehensam. Id accumsan invidunt concludaturque vix, et nam quaeque gloriatur instructior. His quot virtute omnesque te. Ea albucius vulputate eos, semper definitiones at quo. Mea tacimates intellegebat ad.
+
+Ad ferri ocurreret necessitatibus vel, ne eum sint diceret accusamus, ei causae voluptatibus mei. At mea debet blandit. Eum omnis audire disputando et. Congue definitiones nam ne. Reque ridens eos eu. Mei exerci hendrerit id, brute nominati ea per, no sea altera impetus quaeque.]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>252</wp:post_id>
+								<wp:post_date><![CDATA[2017-08-16 22:03:02]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2017-08-16 22:03:02]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[open]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[allergies-immunology]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-event]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																		<category domain="mp-event_category" nicename="allergies-immunology"><![CDATA[Allergies &amp; Immunology]]></category>
+
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+										<wp:meta_value><![CDATA[1]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(255, 0, 255)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(194, 123, 160)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(0, 0, 0)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(0, 0, 0)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[CHfw_mpevent_departmentForSingleEventPage]]></wp:meta_key>
+										<wp:meta_value><![CDATA[33,33,33,33,33,0,33,33]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+										<wp:meta_value><![CDATA[139]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[CHfw-PostViewsCount]]></wp:meta_key>
+										<wp:meta_value><![CDATA[39]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+										<wp:meta_value><![CDATA[pediatrics]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Blood &amp; Marrow</title>
+								<link>https://wow.chromthemes.com/departmans/blood-marrow/</link>
+								<pubDate>Wed, 16 Aug 2017 22:03:21 +0000</pubDate>
+								<dc:creator><![CDATA[admin]]></dc:creator>
+								<guid isPermaLink="false">https://wow.chromthemes.com/?post_type=mp-event&#038;p=253</guid>
+								<description></description>
+								<content:encoded><![CDATA[Lorem ipsum dolor sit amet, elit laudem integre has no. Eum ne quis everti vituperata. Eu illud commodo repudiare per, alterum antiopam recteque cu sit, an meliore expetendis sed. His dolor evertitur id. Ei pro laoreet adipiscing, ex intellegam assueverit quo. Ut mucius appareat vix, te cum diam hinc falli.
+
+Eripuit ornatus scribentur ad nam. Utamur lucilius vix an, mei democritum efficiendi concludaturque in. Munere atomorum moderatius at vix, sit eirmod singulis at, dicat accusam dissentiunt id duo. Ei pro veri natum. Eos at vidit delicatissimi.
+
+Eu mel atqui saepe, suas prompta et vix. Vocent democritum eu vel. Novum consectetuer at eum. Et nam idque animal, per no error placerat. Eam scaevola scripserit ad.
+
+Ad unum oportere sed, ei quo dolore imperdiet. Usu cu aeque labores, ex sea luptatum adolescens. Iusto definiebas has eu. His accusata praesent et, ea eos oratio soleat voluptatum, liber delectus vix ei. Eam id amet eius dicit, et facilis conceptam eam, te cum alia assum feugait.
+
+Cetero perfecto est id, eu mei malorum nusquam apeirian, pro eu alia facete mollis. Dico eius possim eu est. Urbanitas consectetuer vis ad, ad ius audire convenire imperdiet. Eu dolorem contentiones est, ea eum postea nusquam contentiones, mei suas diam cu. Per ad detracto referrentur, simul regione ocurreret ea eam.
+
+Pri dolorum detraxit pericula an, mel aperiri consectetuer ut. Ei dico fabellas suavitate vel, pri omnium integre dissentias ei, has et falli error. Pro ea nobis recteque democritum. No gloriatur persequeris contentiones nam, rebum admodum gloriatur et pri. Et error simul his, sit no nonumes detraxit reformidans. Et eos nibh eros, no quo nibh altera assueverit. Mei tale intellegat eu, vel te dicta labitur.
+
+Pro id velit inimicus repudiandae. Ad eirmod albucius incorrupte pri, et nonumes deleniti vivendum sea, habeo temporibus at est. Quas tation corrumpit te his. Oblique habemus te duo, case dissentiet eum cu. Eam id velit tincidunt, agam libris scribentur in mea. Iusto inimicus salutandi ea quo, eam nonumy accusam accumsan cu.
+
+Ut omnium laboramus scribentur usu, nec iisque percipitur in, debet evertitur ut quo. Nec magna ubique te, sumo consul persequeris at vel. Inermis interesset et mei. Intellegat repudiandae his ex, vel ne modo fuisset fastidii. Ad meliore alienum vivendum nec.
+
+Tantas luptatum signiferumque ne sit, eu semper denique eum. Te sumo ipsum eum. Modo dico vix eu. Eum te iudico mucius repudiandae, vis et salutatus voluptatibus. Est iudico regione ad, no sit vocibus apeirian dignissim.
+
+Ius et sumo veri, vis feugiat detracto in. Vis no iriure aeterno, ea per alterum legendos, appetere prodesset definitiones ut ius. Cum at copiosae persequeris. In nec eruditi imperdiet. Ea putant virtute principes est, euismod meliore pri et, at mea nulla incorrupte. Malis convenire ne sit, ex sint soluta partiendo eum. Ea ius mucius pericula, vix an sumo dicant erroribus.]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>253</wp:post_id>
+								<wp:post_date><![CDATA[2017-08-16 22:03:21]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2017-08-16 22:03:21]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[open]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[blood-marrow]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-event]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																		<category domain="mp-event_category" nicename="blood-marrow"><![CDATA[Blood &amp; Marrow]]></category>
+
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+										<wp:meta_value><![CDATA[1]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(111, 168, 220)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(159, 197, 232)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(0, 0, 0)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(0, 0, 0)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[CHfw_mpevent_departmentForSingleEventPage]]></wp:meta_key>
+										<wp:meta_value><![CDATA[35,35,35,35]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+										<wp:meta_value><![CDATA[271]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[CHfw-PostViewsCount]]></wp:meta_key>
+										<wp:meta_value><![CDATA[7]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+										<wp:meta_value><![CDATA[physiotherapy]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Airway &amp; Lungs</title>
+								<link>https://wow.chromthemes.com/departmans/airway-lungs/</link>
+								<pubDate>Wed, 16 Aug 2017 22:03:40 +0000</pubDate>
+								<dc:creator><![CDATA[admin]]></dc:creator>
+								<guid isPermaLink="false">https://wow.chromthemes.com/?post_type=mp-event&#038;p=254</guid>
+								<description></description>
+								<content:encoded><![CDATA[Lorem ipsum dolor sit amet, utinam consulatu mediocritatem ut quo, ullum posidonium mediocritatem ut vix. Sed ridens scripserit an, elit decore invenire sed at, movet possit cu cum. Cetero delicata aliquando nec ex, vix et nonumy disputando. Corpora adversarium necessitatibus id has. Pri agam inermis an. Ea mei paulo utinam, vim in alii alia admodum. Lorem posidonium pri in.
+
+Alia veri in nec. Fierent electram at quo, eos ex adhuc philosophia. At verear patrioque has. Ea pro laudem elaboraret, in est primis dolorem.
+
+Vix ea eros vivendum, vel apeirian pertinax dignissim id. Debet clita id per, id nam quod posse munere. Nominati constituto consetetur no nec, nec wisi legere cetero eu. Eu possit complectitur eam. Tritani menandri ne eum. Saepe exerci prompta ne sed, iuvaret qualisque ne has.
+
+His reque utroque tacimates ex. Et solet eirmod sanctus usu, has natum dicat id, aeque dolores sit ei. Nonumy accommodare his ut, eirmod facilis eos ei. His id justo accommodare, semper aeterno constituam pro ea, vis exerci evertitur ad. Ea sea oratio copiosae, no probatus senserit consectetuer has, nonumy lobortis mea ea. Te exerci accusam expetendis duo.
+
+Duo sanctus deleniti assueverit te, ne nostrum evertitur ius. Quo illud falli deterruisset ne, vitae tation honestatis ad sea, ius aliquip intellegat ex. Et sed nibh dolores, eos congue tamquam id, vis ex summo soleat suscipit. Enim novum putent cu vel. Iuvaret insolens eam id, te sea natum facilisis.
+
+At est ceteros petentium, id omnes audiam signiferumque eos, suas case putent sit id. Te eam diam erant. Et quas inani sit, munere consul mollis cu quo. Ex per etiam voluptua, ne vix dicunt molestie hendrerit.
+
+Odio elit molestie ei pri. No eum prompta graecis, est eu errem eruditi. Est meis congue reformidans no, legendos voluptatibus eu usu, cum at legere accumsan. Id cum ornatus maiorum, at mel viderer repudiare ullamcorper. Quas malis senserit an nec, no insolens suscipiantur per. Usu et wisi legere, has erat iudicabit omittantur ne, eu eros maiorum ius.
+
+Vim summo altera accumsan cu, omnes suavitate dissentiunt an his, elitr electram cotidieque an quo. Ea cum sale mucius, ut cibo veri sed. Nam cu possit admodum erroribus. Cum stet justo at, no sit autem paulo iracundia. Sed solet sanctus reprehendunt ei, mea saepe dolore ad, ei his viderer oportere inciderint. Aeque bonorum lucilius id sed, vix ne nonumy postea.
+
+Ut vel debitis scaevola. Has minim labore tamquam cu, adolescens temporibus eum et, vix cu fugit gloriatur. Vide salutatus consequat per at. Cum ex vocibus invenire, sed eu gloriatur sadipscing efficiantur, amet assum melius per ad. Sit ut mazim copiosae tractatos.
+
+Hinc ridens quo ne, fabellas urbanitas sed an. Pro justo iusto ad. Eu dolore iuvaret alterum eam. Id omnes detracto salutandi has, no ullum omnesque invenire mea. Porro populo incorrupte ex sit, ne ius harum fabellas molestiae. Quem maiestatis et vix, nam id purto expetendis voluptatum.]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>254</wp:post_id>
+								<wp:post_date><![CDATA[2017-08-16 22:03:40]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2017-08-16 22:03:40]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[open]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[airway-lungs]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-event]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																		<category domain="mp-event_category" nicename="airway-lungs"><![CDATA[Airway &amp; Lungs]]></category>
+
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+										<wp:meta_value><![CDATA[1]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(255, 255, 0)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(255, 229, 153)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(0, 0, 0)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(0, 0, 0)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[CHfw_mpevent_departmentForSingleEventPage]]></wp:meta_key>
+										<wp:meta_value><![CDATA[37,37]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[CHfw-PostViewsCount]]></wp:meta_key>
+										<wp:meta_value><![CDATA[479]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+										<wp:meta_value><![CDATA[ophthalmology-clinic]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>HBones &amp; Joints (orthopaedics)</title>
+								<link>https://wow.chromthemes.com/departmans/bones-joints-orthopaedics/</link>
+								<pubDate>Wed, 16 Aug 2017 22:03:50 +0000</pubDate>
+								<dc:creator><![CDATA[admin]]></dc:creator>
+								<guid isPermaLink="false">https://wow.chromthemes.com/?post_type=mp-event&#038;p=255</guid>
+								<description></description>
+								<content:encoded><![CDATA[Lorem ipsum dolor sit amet, pri ut saepe iisque inciderint, duo ei constituto adipiscing, at modo torquatos vim. Everti tractatos duo cu. Sit illud labitur et. Enim wisi constituto per ne, laudem epicuri evertitur in quo.
+
+Iudicabit referrentur vituperatoribus mea ut, an vix prompta contentiones. Dicunt feugait eos at, augue efficiendi in nec. Eu cum nostrud discere, vocent voluptua duo an. Dicat ullum est ei.
+
+Ex duo duis facer referrentur. Pri iusto expetendis reprimique ea, iudico complectitur ei vis, an ius affert perfecto. Pro ut laudem reprimique. Assum atomorum ex pro.
+
+Mel ei doming reprimique definitionem. Duo modo wisi quaeque in, te timeam numquam nam, ex sumo solet pri. Ridens verterem sea ad, ut mel ubique insolens. Affert bonorum appetere et ius, mutat veniam splendide in mei. Cu nec malis hendrerit prodesset, ullum oratio complectitur ea nam.
+
+Ut quem stet nominati sed, vis et quidam sententiae. Id vix ullum sonet, te ius etiam elitr iuvaret. Id sea iriure expetenda constituam, at cum utroque maluisset molestiae. Aeterno quaerendum nec et.
+
+Eos tollit nominati ne. Cu quem corrumpit interesset mel. Facete nusquam ius cu, no quo audire omittam, iusto causae sadipscing usu no. Quo quodsi labores voluptaria ex, ei sed prima scaevola.
+
+No mei labore diceret. Case timeam verterem ex usu, nec eirmod urbanitas interpretaris et. Id nemore omnesque sea. Aliquid inimicus repudiandae pro ut, ex eos dicit malorum. Malis atomorum mediocrem pri id, per ne paulo veritus.
+
+Aliquip oblique fabellas cum eu, his everti oportere id. Mei an equidem veritus sententiae, vim dolorum lobortis no, duo ex putant aeterno. Quo ex suas veri suscipiantur, eum virtute nominati te, ad sea iisque maiestatis honestatis. Sea ei magna liber definitionem, vix amet instructior an.
+
+Eu vim sint alienum, nec ea ubique aperiri facilisis. Omnis dolorem elaboraret nam ne, in perfecto vituperata duo. Vel ut possit tacimates voluptatum, option mediocritatem te mea, homero detracto ad his. Duo te porro aeque dissentiet, ex aeque ubique adipiscing usu. Has forensibus accommodare ex. Id mei luptatum percipitur, stet homero pro ut. Vim alii esse fabulas ne.
+
+Omnis moderatius cu pri, his elit malorum mnesarchum te. An mei vidisse suscipiantur, vim quas quaerendum cu, ut mea invidunt scriptorem. Causae option molestie ex qui. Quem constituto percipitur eam ei, est ea aeque percipitur. Oporteat qualisque signiferumque eos et, ne nam esse probo interpretaris.]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>255</wp:post_id>
+								<wp:post_date><![CDATA[2017-08-16 22:03:50]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2017-08-16 22:03:50]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[open]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[bones-joints-orthopaedics]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-event]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																		<category domain="mp-event_category" nicename="bones-joints-orthopaedics-programs-and-services"><![CDATA[Bones &amp; Joints (orthopaedics) // Programs and Services]]></category>
+
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+										<wp:meta_value><![CDATA[1]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(255, 153, 0)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(249, 203, 156)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(0, 0, 0)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[rgb(0, 0, 0)]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[CHfw_mpevent_departmentForSingleEventPage]]></wp:meta_key>
+										<wp:meta_value><![CDATA[39,41,41,41,41,41,41,41,41,41,41,39,41,41,39,39,41,41,41,39,39,39,41]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[CHfw-PostViewsCount]]></wp:meta_key>
+										<wp:meta_value><![CDATA[195]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+										<wp:meta_value><![CDATA[212]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+										<wp:meta_value><![CDATA[cardiac-clinicy]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+										<wp:meta_value><![CDATA[false]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Monday</title>
+								<link>https://wow.chromthemes.com/timetable/column/monday/</link>
+								<pubDate>Wed, 16 Aug 2017 22:04:49 +0000</pubDate>
+								<dc:creator><![CDATA[admin]]></dc:creator>
+								<guid isPermaLink="false">https://wow.chromthemes.com/?post_type=mp-column&#038;p=256</guid>
+								<description></description>
+								<content:encoded><![CDATA[[mp-timetable col="256" events="254,252,251,253,255,250,249" title="1" time="1" sub-title="1" row_height="45" font_size="" increment="1" view="tabs" label="All Events" hide_label="0" hide_hrs="0" hide_empty_rows="1" group="0" disable_event_url="0" text_align="center" text_align_vertical="default" id="" custom_class="" responsive="1"]]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>256</wp:post_id>
+								<wp:post_date><![CDATA[2017-08-16 22:04:49]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2017-08-16 22:04:49]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[monday]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-column]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+										<wp:meta_value><![CDATA[1]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[column_option]]></wp:meta_key>
+										<wp:meta_value><![CDATA[simple]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[CHfw-PostViewsCount]]></wp:meta_key>
+										<wp:meta_value><![CDATA[8]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Tuesday</title>
+								<link>https://wow.chromthemes.com/timetable/column/tuesday/</link>
+								<pubDate>Wed, 16 Aug 2017 22:05:18 +0000</pubDate>
+								<dc:creator><![CDATA[admin]]></dc:creator>
+								<guid isPermaLink="false">https://wow.chromthemes.com/?post_type=mp-column&#038;p=257</guid>
+								<description></description>
+								<content:encoded><![CDATA[[mp-timetable col="257" events="254,252,251,253,255,250,249" title="1" time="1" sub-title="1" row_height="45" font_size="" increment="1" view="tabs" label="All Events" hide_label="0" hide_hrs="0" hide_empty_rows="1" group="0" disable_event_url="0" text_align="center" text_align_vertical="default" id="" custom_class="" responsive="1"]]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>257</wp:post_id>
+								<wp:post_date><![CDATA[2017-08-16 22:05:18]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2017-08-16 22:05:18]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[tuesday]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-column]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+										<wp:meta_value><![CDATA[1]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[column_option]]></wp:meta_key>
+										<wp:meta_value><![CDATA[simple]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[CHfw-PostViewsCount]]></wp:meta_key>
+										<wp:meta_value><![CDATA[2]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Wednesday</title>
+								<link>https://wow.chromthemes.com/timetable/column/wednesday/</link>
+								<pubDate>Wed, 16 Aug 2017 22:06:18 +0000</pubDate>
+								<dc:creator><![CDATA[admin]]></dc:creator>
+								<guid isPermaLink="false">https://wow.chromthemes.com/?post_type=mp-column&#038;p=258</guid>
+								<description></description>
+								<content:encoded><![CDATA[[mp-timetable col="258" events="254,252,251,253,255,250,249" event_categ="34,40,30,32,38,26,28,36" title="1" time="1" sub-title="1" row_height="45" font_size="" increment="1" view="tabs" label="All Events" hide_label="0" hide_hrs="0" hide_empty_rows="1" group="0" disable_event_url="0" text_align="center" text_align_vertical="default" id="" custom_class="" responsive="1"]]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>258</wp:post_id>
+								<wp:post_date><![CDATA[2017-08-16 22:06:18]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2017-08-16 22:06:18]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[wednesday]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-column]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+										<wp:meta_value><![CDATA[1]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[column_option]]></wp:meta_key>
+										<wp:meta_value><![CDATA[simple]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[CHfw-PostViewsCount]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Thursday</title>
+								<link>https://wow.chromthemes.com/timetable/column/thursday/</link>
+								<pubDate>Wed, 16 Aug 2017 22:06:26 +0000</pubDate>
+								<dc:creator><![CDATA[admin]]></dc:creator>
+								<guid isPermaLink="false">https://wow.chromthemes.com/?post_type=mp-column&#038;p=259</guid>
+								<description></description>
+								<content:encoded><![CDATA[[mp-timetable col="259" events="254,252,251,253,255,250,249" event_categ="34,40,30,32,38,26,28,36" title="1" time="1" sub-title="1" row_height="45" font_size="" increment="1" view="tabs" label="All Events" hide_label="0" hide_hrs="0" hide_empty_rows="1" group="0" disable_event_url="0" text_align="center" text_align_vertical="default" id="" custom_class="" responsive="1"]]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>259</wp:post_id>
+								<wp:post_date><![CDATA[2017-08-16 22:06:26]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2017-08-16 22:06:26]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[thursday]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-column]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+										<wp:meta_value><![CDATA[1]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[column_option]]></wp:meta_key>
+										<wp:meta_value><![CDATA[simple]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[CHfw-PostViewsCount]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Friday</title>
+								<link>https://wow.chromthemes.com/timetable/column/friday/</link>
+								<pubDate>Wed, 16 Aug 2017 22:06:33 +0000</pubDate>
+								<dc:creator><![CDATA[admin]]></dc:creator>
+								<guid isPermaLink="false">https://wow.chromthemes.com/?post_type=mp-column&#038;p=260</guid>
+								<description></description>
+								<content:encoded><![CDATA[[mp-timetable col="260" events="254,252,251,253,255,250,249" event_categ="34,40,30,32,38,26,28,36" title="1" time="1" sub-title="1" row_height="45" font_size="" increment="1" view="tabs" label="All Events" hide_label="0" hide_hrs="0" hide_empty_rows="1" group="0" disable_event_url="0" text_align="center" text_align_vertical="default" id="" custom_class="" responsive="1"]]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>260</wp:post_id>
+								<wp:post_date><![CDATA[2017-08-16 22:06:33]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2017-08-16 22:06:33]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[friday]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-column]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+										<wp:meta_value><![CDATA[1]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[column_option]]></wp:meta_key>
+										<wp:meta_value><![CDATA[simple]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[CHfw-PostViewsCount]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Saturday</title>
+								<link>https://wow.chromthemes.com/timetable/column/saturday/</link>
+								<pubDate>Wed, 16 Aug 2017 22:06:39 +0000</pubDate>
+								<dc:creator><![CDATA[admin]]></dc:creator>
+								<guid isPermaLink="false">https://wow.chromthemes.com/?post_type=mp-column&#038;p=261</guid>
+								<description></description>
+								<content:encoded><![CDATA[[mp-timetable col="261" events="254,252,251,253,255,250,249" event_categ="34,40,30,32,38,26,28,36" title="1" time="1" sub-title="1" row_height="45" font_size="" increment="1" view="tabs" label="All Events" hide_label="0" hide_hrs="0" hide_empty_rows="1" group="0" disable_event_url="0" text_align="center" text_align_vertical="default" id="" custom_class="" responsive="1"]]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>261</wp:post_id>
+								<wp:post_date><![CDATA[2017-08-16 22:06:39]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2017-08-16 22:06:39]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[saturday]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-column]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+										<wp:meta_value><![CDATA[1]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[column_option]]></wp:meta_key>
+										<wp:meta_value><![CDATA[simple]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[CHfw-PostViewsCount]]></wp:meta_key>
+										<wp:meta_value><![CDATA[1]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Dentist working</title>
+								<link>https://wow.chromthemes.com/departmans/cystic-fibrosis-ol/dentist-working/</link>
+								<pubDate>Wed, 16 Aug 2017 23:51:25 +0000</pubDate>
+								<dc:creator><![CDATA[admin]]></dc:creator>
+								<guid isPermaLink="false">https://wow.chromthemes.com/wp-content/uploads/2017/08/chFw_Dentist-working-EveryPixel.com_.jpg</guid>
+								<description></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+								<excerpt:encoded><![CDATA[Female dentist busy with dental procedure]]></excerpt:encoded>
+								<wp:post_id>272</wp:post_id>
+								<wp:post_date><![CDATA[2017-08-16 23:51:25]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2017-08-16 23:51:25]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[open]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[dentist-working]]></wp:post_name>
+								<wp:status><![CDATA[inherit]]></wp:status>
+								<wp:post_parent>250</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[attachment]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																	<wp:attachment_url><![CDATA[https://wow.chromthemes.com/wp-content/uploads/2017/08/chFw_Dentist-working-EveryPixel.com_.jpg]]></wp:attachment_url>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+										<wp:meta_value><![CDATA[2017/08/chFw_Dentist-working-EveryPixel.com_.jpg]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:5:{s:5:"width";i:867;s:6:"height";i:579;s:4:"file";s:48:"2017/08/chFw_Dentist-working-EveryPixel.com_.jpg";s:5:"sizes";a:10:{s:9:"thumbnail";a:4:{s:4:"file";s:48:"chFw_Dentist-working-EveryPixel.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:48:"chFw_Dentist-working-EveryPixel.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:48:"chFw_Dentist-working-EveryPixel.com_-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";}s:18:"CHfw-staffPostSize";a:4:{s:4:"file";s:48:"chFw_Dentist-working-EveryPixel.com_-320x214.jpg";s:5:"width";i:320;s:6:"height";i:214;s:9:"mime-type";s:10:"image/jpeg";}s:15:"wow-widget-post";a:4:{s:4:"file";s:46:"chFw_Dentist-working-EveryPixel.com_-80x80.jpg";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}s:36:"wow-BlogList_MediumSmall_SidebarOpen";a:4:{s:4:"file";s:48:"chFw_Dentist-working-EveryPixel.com_-860x500.jpg";s:5:"width";i:860;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}s:24:"wow-BlogList_MediumLarge";a:4:{s:4:"file";s:48:"chFw_Dentist-working-EveryPixel.com_-867x530.jpg";s:5:"width";i:867;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";}s:18:"wow-AllSidebarOpen";a:4:{s:4:"file";s:48:"chFw_Dentist-working-EveryPixel.com_-430x300.jpg";s:5:"width";i:430;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:34:"wow-Timeline_zigzag1_zigzag2_Large";a:4:{s:4:"file";s:48:"chFw_Dentist-working-EveryPixel.com_-570x380.jpg";s:5:"width";i:570;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:31:"wow-masonry-BlogListSmall-Large";a:4:{s:4:"file";s:48:"chFw_Dentist-working-EveryPixel.com_-420x370.jpg";s:5:"width";i:420;s:6:"height";i:370;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:3:"4.5";s:6:"credit";s:0:"";s:6:"camera";s:11:"NIKON D800E";s:7:"caption";s:41:"Female dentist busy with dental procedure";s:17:"created_timestamp";s:10:"1359614618";s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"20";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.008";s:5:"title";s:15:"Dentist working";s:11:"orientation";s:1:"1";s:8:"keywords";a:40:{i:0;s:5:"adult";i:1;s:11:"adults only";i:2;s:13:"angled mirror";i:3;s:9:"Caucasian";i:4;s:8:"close-up";i:5;s:12:"contemporary";i:6;s:16:"dental assistant";i:7;s:16:"dental equipment";i:8;s:14:"dental hygiene";i:9;s:7:"dentist";i:10;s:14:"directly below";i:11;s:6:"doctor";i:12;s:9:"equipment";i:13;s:9:"expertise";i:14;s:6:"female";i:15;s:23:"healthcare and medicine";i:16;s:17:"healthcare worker";i:17;s:17:"healthy lifestyle";i:18;s:7:"holding";i:19;s:8:"hospital";i:20;s:10:"human hand";i:21;s:7:"indoors";i:22;s:9:"lifestyle";i:23;s:14:"low angle view";i:24;s:17:"medical equipment";i:25;s:12:"medical exam";i:26;s:18:"medical occupation";i:27;s:17:"medical procedure";i:28;s:8:"medicine";i:29;s:6:"mirror";i:30;s:10:"occupation";i:31;s:14:"plaque remover";i:32;s:23:"professional occupation";i:33;s:16:"protective glove";i:34;s:11:"real people";i:35;s:15:"selective focus";i:36;s:14:"surgical glove";i:37;s:5:"woman";i:38;s:9:"work tool";i:39;s:7:"working";}}}]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Arm sling</title>
+								<link>https://wow.chromthemes.com/departmans/pediatric-agammaglobulinemia/arm-sling/</link>
+								<pubDate>Wed, 16 Aug 2017 23:52:50 +0000</pubDate>
+								<dc:creator><![CDATA[admin]]></dc:creator>
+								<guid isPermaLink="false">https://wow.chromthemes.com/wp-content/uploads/2017/08/chFw_Arm-sling-EveryPixel.com_.jpg</guid>
+								<description></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+								<excerpt:encoded><![CDATA[Man with his hand in arm sling at clinic]]></excerpt:encoded>
+								<wp:post_id>273</wp:post_id>
+								<wp:post_date><![CDATA[2017-08-16 23:52:50]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2017-08-16 23:52:50]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[open]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[arm-sling]]></wp:post_name>
+								<wp:status><![CDATA[inherit]]></wp:status>
+								<wp:post_parent>249</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[attachment]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																	<wp:attachment_url><![CDATA[https://wow.chromthemes.com/wp-content/uploads/2017/08/chFw_Arm-sling-EveryPixel.com_.jpg]]></wp:attachment_url>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+										<wp:meta_value><![CDATA[2017/08/chFw_Arm-sling-EveryPixel.com_.jpg]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1718;s:6:"height";i:1145;s:4:"file";s:42:"2017/08/chFw_Arm-sling-EveryPixel.com_.jpg";s:5:"sizes";a:11:{s:9:"thumbnail";a:4:{s:4:"file";s:42:"chFw_Arm-sling-EveryPixel.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:42:"chFw_Arm-sling-EveryPixel.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:42:"chFw_Arm-sling-EveryPixel.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:43:"chFw_Arm-sling-EveryPixel.com_-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:18:"CHfw-staffPostSize";a:4:{s:4:"file";s:42:"chFw_Arm-sling-EveryPixel.com_-320x213.jpg";s:5:"width";i:320;s:6:"height";i:213;s:9:"mime-type";s:10:"image/jpeg";}s:15:"wow-widget-post";a:4:{s:4:"file";s:40:"chFw_Arm-sling-EveryPixel.com_-80x80.jpg";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}s:36:"wow-BlogList_MediumSmall_SidebarOpen";a:4:{s:4:"file";s:42:"chFw_Arm-sling-EveryPixel.com_-860x500.jpg";s:5:"width";i:860;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}s:24:"wow-BlogList_MediumLarge";a:4:{s:4:"file";s:43:"chFw_Arm-sling-EveryPixel.com_-1100x530.jpg";s:5:"width";i:1100;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";}s:18:"wow-AllSidebarOpen";a:4:{s:4:"file";s:42:"chFw_Arm-sling-EveryPixel.com_-430x300.jpg";s:5:"width";i:430;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:34:"wow-Timeline_zigzag1_zigzag2_Large";a:4:{s:4:"file";s:42:"chFw_Arm-sling-EveryPixel.com_-570x380.jpg";s:5:"width";i:570;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:31:"wow-masonry-BlogListSmall-Large";a:4:{s:4:"file";s:42:"chFw_Arm-sling-EveryPixel.com_-420x370.jpg";s:5:"width";i:420;s:6:"height";i:370;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"9";s:6:"credit";s:0:"";s:6:"camera";s:20:"Canon EOS 5D Mark II";s:7:"caption";s:40:"Man with his hand in arm sling at clinic";s:17:"created_timestamp";s:10:"1323332853";s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"50";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:5:"0.008";s:5:"title";s:9:"Arm sling";s:11:"orientation";s:1:"1";s:8:"keywords";a:41:{i:0;s:8:"accident";i:1;s:5:"adult";i:2;s:9:"arm sling";i:3;s:10:"assistance";i:4;s:6:"broken";i:5;s:4:"care";i:6;s:4:"cast";i:7;s:8:"close-up";i:8;s:6:"curing";i:9;s:6:"doctor";i:10;s:16:"doctors office";i:11;s:6:"female";i:12;s:8:"fracture";i:13;s:23:"healthcare and medicine";i:14;s:17:"healthcare worker";i:15;s:7:"helping";i:16;s:8:"hospital";i:17;s:9:"human arm";i:18;s:10:"human hand";i:19;s:4:"male";i:20;s:3:"man";i:21;s:17:"medical equipment";i:22;s:18:"medical occupation";i:23;s:17:"medical procedure";i:24;s:8:"medicine";i:25;s:5:"nurse";i:26;s:17:"nursing assistant";i:27;s:10:"occupation";i:28;s:7:"part of";i:29;s:7:"patient";i:30;s:6:"people";i:31;s:15:"physical injury";i:32;s:10:"protection";i:33;s:8:"recovery";i:34;s:6:"sprain";i:35;s:10:"supporting";i:36;s:7:"therapy";i:37;s:5:"visit";i:38;s:5:"woman";i:39;s:7:"working";i:40;s:5:"wound";}}}]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Blood Stem Cell Collection</title>
+								<link>https://wow.chromthemes.com/departmans/blood-stem-cell-collection/</link>
+								<pubDate>Sun, 18 Feb 2018 13:40:01 +0000</pubDate>
+								<dc:creator><![CDATA[admin]]></dc:creator>
+								<guid isPermaLink="false">https://wow.chromthemes.com/?post_type=mp-event&#038;p=818</guid>
+								<description></description>
+								<content:encoded><![CDATA[Peripheral blood stem cell (PBSC) collection is a procedure where volunteer donors (relatives or siblings) or patients donate their stem cells through apheresis for allogeneic and autologous blood and marrow transplantation.]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>818</wp:post_id>
+								<wp:post_date><![CDATA[2018-02-18 13:40:01]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2018-02-18 13:40:01]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[open]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[blood-stem-cell-collection]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-event]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																		<category domain="mp-event_category" nicename="blood-marrow-programs-and-services"><![CDATA[Blood &amp; Marrow // Programs and Services]]></category>
+
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+										<wp:meta_value><![CDATA[1]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+										<wp:meta_value><![CDATA[false]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[CHfw-PostViewsCount]]></wp:meta_key>
+										<wp:meta_value><![CDATA[2]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Behavioral Health</title>
+								<link>https://wow.chromthemes.com/departmans/behavioral-health/</link>
+								<pubDate>Thu, 22 Mar 2018 13:21:17 +0000</pubDate>
+								<dc:creator><![CDATA[admin]]></dc:creator>
+								<guid isPermaLink="false">https://wow.chromthemes.com/?post_type=mp-event&#038;p=933</guid>
+								<description></description>
+								<content:encoded><![CDATA[Personalized professional services—including screening and evaluation—for a wide range of common behavioral health conditions affecting adults, seniors, children and adolescents, such as:]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>933</wp:post_id>
+								<wp:post_date><![CDATA[2018-03-22 13:21:17]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2018-03-22 13:21:17]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[open]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[behavioral-health]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-event]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																		<category domain="mp-event_category" nicename="behavioral-health"><![CDATA[Behavioral Health]]></category>
+
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+										<wp:meta_value><![CDATA[1]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+										<wp:meta_value><![CDATA[false]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+										<wp:meta_value><![CDATA[935]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[CHfw-PostViewsCount]]></wp:meta_key>
+										<wp:meta_value><![CDATA[3]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>Addiction &amp; Recovery</title>
+								<link>https://wow.chromthemes.com/departmans/addiction-recovery/</link>
+								<pubDate>Thu, 22 Mar 2018 13:22:02 +0000</pubDate>
+								<dc:creator><![CDATA[admin]]></dc:creator>
+								<guid isPermaLink="false">https://wow.chromthemes.com/?post_type=mp-event&#038;p=934</guid>
+								<description></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>934</wp:post_id>
+								<wp:post_date><![CDATA[2018-03-22 13:22:02]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2018-03-22 13:22:02]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[open]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[addiction-recovery]]></wp:post_name>
+								<wp:status><![CDATA[publish]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[mp-event]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																		<category domain="mp-event_category" nicename="behavioral-health-programs-and-services"><![CDATA[Behavioral Health // Programs and Services]]></category>
+
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_vc_post_settings]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+										<wp:meta_value><![CDATA[1]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[slide_template]]></wp:meta_key>
+										<wp:meta_value><![CDATA[default]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wpb_vc_js_status]]></wp:meta_key>
+										<wp:meta_value><![CDATA[false]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[sub_title]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[hover_text_color]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_custom_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[timetable_disable_url]]></wp:meta_key>
+										<wp:meta_value><![CDATA[0]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[CHfw-PostViewsCount]]></wp:meta_key>
+										<wp:meta_value><![CDATA[1]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>chFw_Female-doctor-EveryPixel.com_contarat.jpg</title>
+								<link>https://wow.chromthemes.com/chfw-female-doctor-everypixel-com-contarat-jpg/</link>
+								<pubDate>Wed, 16 Aug 2017 20:55:49 +0000</pubDate>
+								<dc:creator><![CDATA[admin]]></dc:creator>
+								<guid isPermaLink="false">https://wow.chromthemes.com/wp-content/uploads/revslider/doctor/chFw_Female-doctor-EveryPixel.com_contarat.jpg</guid>
+								<description></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>212</wp:post_id>
+								<wp:post_date><![CDATA[2017-08-16 20:55:49]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2017-08-16 20:55:49]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[chfw-female-doctor-everypixel-com-contarat-jpg]]></wp:post_name>
+								<wp:status><![CDATA[inherit]]></wp:status>
+								<wp:post_parent>0</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[attachment]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																	<wp:attachment_url><![CDATA[https://wow.chromthemes.com/wp-content/uploads/revslider/doctor/chFw_Female-doctor-EveryPixel.com_contarat.jpg]]></wp:attachment_url>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+										<wp:meta_value><![CDATA[revslider/doctor/chFw_Female-doctor-EveryPixel.com_contarat.jpg]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1718;s:6:"height";i:1145;s:4:"file";s:63:"revslider/doctor/chFw_Female-doctor-EveryPixel.com_contarat.jpg";s:5:"sizes";a:11:{s:9:"thumbnail";a:4:{s:4:"file";s:54:"chFw_Female-doctor-EveryPixel.com_contarat-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:54:"chFw_Female-doctor-EveryPixel.com_contarat-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:54:"chFw_Female-doctor-EveryPixel.com_contarat-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:55:"chFw_Female-doctor-EveryPixel.com_contarat-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:18:"CHfw-staffPostSize";a:4:{s:4:"file";s:54:"chFw_Female-doctor-EveryPixel.com_contarat-320x213.jpg";s:5:"width";i:320;s:6:"height";i:213;s:9:"mime-type";s:10:"image/jpeg";}s:15:"wow-widget-post";a:4:{s:4:"file";s:52:"chFw_Female-doctor-EveryPixel.com_contarat-80x80.jpg";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}s:36:"wow-BlogList_MediumSmall_SidebarOpen";a:4:{s:4:"file";s:54:"chFw_Female-doctor-EveryPixel.com_contarat-860x500.jpg";s:5:"width";i:860;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}s:24:"wow-BlogList_MediumLarge";a:4:{s:4:"file";s:55:"chFw_Female-doctor-EveryPixel.com_contarat-1100x530.jpg";s:5:"width";i:1100;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";}s:18:"wow-AllSidebarOpen";a:4:{s:4:"file";s:54:"chFw_Female-doctor-EveryPixel.com_contarat-430x300.jpg";s:5:"width";i:430;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:34:"wow-Timeline_zigzag1_zigzag2_Large";a:4:{s:4:"file";s:54:"chFw_Female-doctor-EveryPixel.com_contarat-570x380.jpg";s:5:"width";i:570;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:31:"wow-masonry-BlogListSmall-Large";a:4:{s:4:"file";s:54:"chFw_Female-doctor-EveryPixel.com_contarat-420x370.jpg";s:5:"width";i:420;s:6:"height";i:370;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"5";s:6:"credit";s:0:"";s:6:"camera";s:12:"Canon EOS 5D";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1219153890";s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"85";s:3:"iso";s:3:"100";s:13:"shutter_speed";s:17:"0.033333333333333";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>chFw_treatment-1327811_1280</title>
+								<link>https://wow.chromthemes.com/departmans/blood-marrow/chfw_treatment-1327811_1280/</link>
+								<pubDate>Wed, 16 Aug 2017 23:49:50 +0000</pubDate>
+								<dc:creator><![CDATA[admin]]></dc:creator>
+								<guid isPermaLink="false">https://wow.chromthemes.com/wp-content/uploads/2017/08/chFw_treatment-1327811_1280.jpg</guid>
+								<description></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>271</wp:post_id>
+								<wp:post_date><![CDATA[2017-08-16 23:49:50]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2017-08-16 23:49:50]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[open]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[chfw_treatment-1327811_1280]]></wp:post_name>
+								<wp:status><![CDATA[inherit]]></wp:status>
+								<wp:post_parent>253</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[attachment]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																	<wp:attachment_url><![CDATA[https://wow.chromthemes.com/wp-content/uploads/2017/08/chFw_treatment-1327811_1280.jpg]]></wp:attachment_url>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+										<wp:meta_value><![CDATA[2017/08/chFw_treatment-1327811_1280.jpg]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:850;s:4:"file";s:39:"2017/08/chFw_treatment-1327811_1280.jpg";s:5:"sizes";a:11:{s:9:"thumbnail";a:4:{s:4:"file";s:39:"chFw_treatment-1327811_1280-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:39:"chFw_treatment-1327811_1280-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:39:"chFw_treatment-1327811_1280-768x510.jpg";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:40:"chFw_treatment-1327811_1280-1024x680.jpg";s:5:"width";i:1024;s:6:"height";i:680;s:9:"mime-type";s:10:"image/jpeg";}s:18:"CHfw-staffPostSize";a:4:{s:4:"file";s:39:"chFw_treatment-1327811_1280-320x213.jpg";s:5:"width";i:320;s:6:"height";i:213;s:9:"mime-type";s:10:"image/jpeg";}s:15:"wow-widget-post";a:4:{s:4:"file";s:37:"chFw_treatment-1327811_1280-80x80.jpg";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}s:36:"wow-BlogList_MediumSmall_SidebarOpen";a:4:{s:4:"file";s:39:"chFw_treatment-1327811_1280-860x500.jpg";s:5:"width";i:860;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}s:24:"wow-BlogList_MediumLarge";a:4:{s:4:"file";s:40:"chFw_treatment-1327811_1280-1100x530.jpg";s:5:"width";i:1100;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";}s:18:"wow-AllSidebarOpen";a:4:{s:4:"file";s:39:"chFw_treatment-1327811_1280-430x300.jpg";s:5:"width";i:430;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:34:"wow-Timeline_zigzag1_zigzag2_Large";a:4:{s:4:"file";s:39:"chFw_treatment-1327811_1280-570x380.jpg";s:5:"width";i:570;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:31:"wow-masonry-BlogListSmall-Large";a:4:{s:4:"file";s:39:"chFw_treatment-1327811_1280-420x370.jpg";s:5:"width";i:420;s:6:"height";i:370;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+														<item>
+								<title>medical-appointment-doctor-healthcare-40568</title>
+								<link>https://wow.chromthemes.com/departmans/behavioral-health/medical-appointment-doctor-healthcare-40568/</link>
+								<pubDate>Thu, 22 Mar 2018 13:25:26 +0000</pubDate>
+								<dc:creator><![CDATA[admin]]></dc:creator>
+								<guid isPermaLink="false">https://wow.chromthemes.com/wp-content/uploads/2018/03/medical-appointment-doctor-healthcare-40568.jpeg</guid>
+								<description></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+								<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+								<wp:post_id>935</wp:post_id>
+								<wp:post_date><![CDATA[2018-03-22 13:25:26]]></wp:post_date>
+								<wp:post_date_gmt><![CDATA[2018-03-22 13:25:26]]></wp:post_date_gmt>
+								<wp:comment_status><![CDATA[open]]></wp:comment_status>
+								<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+								<wp:post_name><![CDATA[medical-appointment-doctor-healthcare-40568]]></wp:post_name>
+								<wp:status><![CDATA[inherit]]></wp:status>
+								<wp:post_parent>933</wp:post_parent>
+								<wp:menu_order>0</wp:menu_order>
+								<wp:post_type><![CDATA[attachment]]></wp:post_type>
+								<wp:post_password><![CDATA[]]></wp:post_password>
+								<wp:is_sticky>0</wp:is_sticky>
+																	<wp:attachment_url><![CDATA[https://wow.chromthemes.com/wp-content/uploads/2018/03/medical-appointment-doctor-healthcare-40568.jpeg]]></wp:attachment_url>
+																
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+										<wp:meta_value><![CDATA[2018/03/medical-appointment-doctor-healthcare-40568.jpeg]]></wp:meta_value>
+									</wp:postmeta>
+																	<wp:postmeta>
+										<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+										<wp:meta_value><![CDATA[a:5:{s:5:"width";i:3000;s:6:"height";i:2000;s:4:"file";s:56:"2018/03/medical-appointment-doctor-healthcare-40568.jpeg";s:5:"sizes";a:11:{s:9:"thumbnail";a:4:{s:4:"file";s:56:"medical-appointment-doctor-healthcare-40568-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:56:"medical-appointment-doctor-healthcare-40568-300x200.jpeg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:56:"medical-appointment-doctor-healthcare-40568-768x512.jpeg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:57:"medical-appointment-doctor-healthcare-40568-1024x683.jpeg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:18:"CHfw-staffPostSize";a:4:{s:4:"file";s:56:"medical-appointment-doctor-healthcare-40568-320x213.jpeg";s:5:"width";i:320;s:6:"height";i:213;s:9:"mime-type";s:10:"image/jpeg";}s:15:"wow-widget-post";a:4:{s:4:"file";s:54:"medical-appointment-doctor-healthcare-40568-80x80.jpeg";s:5:"width";i:80;s:6:"height";i:80;s:9:"mime-type";s:10:"image/jpeg";}s:36:"wow-BlogList_MediumSmall_SidebarOpen";a:4:{s:4:"file";s:56:"medical-appointment-doctor-healthcare-40568-860x500.jpeg";s:5:"width";i:860;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}s:24:"wow-BlogList_MediumLarge";a:4:{s:4:"file";s:57:"medical-appointment-doctor-healthcare-40568-1100x530.jpeg";s:5:"width";i:1100;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";}s:18:"wow-AllSidebarOpen";a:4:{s:4:"file";s:56:"medical-appointment-doctor-healthcare-40568-430x300.jpeg";s:5:"width";i:430;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:34:"wow-Timeline_zigzag1_zigzag2_Large";a:4:{s:4:"file";s:56:"medical-appointment-doctor-healthcare-40568-570x380.jpeg";s:5:"width";i:570;s:6:"height";i:380;s:9:"mime-type";s:10:"image/jpeg";}s:31:"wow-masonry-BlogListSmall-Large";a:4:{s:4:"file";s:56:"medical-appointment-doctor-healthcare-40568-420x370.jpeg";s:5:"width";i:420;s:6:"height";i:370;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:3:"4.5";s:6:"credit";s:0:"";s:6:"camera";s:10:"NIKON D810";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:2:"70";s:3:"iso";s:3:"800";s:13:"shutter_speed";s:4:"0.01";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+									</wp:postmeta>
+																							</item>
+													<timeslot>
+							<column><![CDATA[257]]></column>
+							<event><![CDATA[250]]></event>
+							<event_start><![CDATA[09:00:00]]></event_start>
+							<event_end><![CDATA[05:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[257]]></column>
+							<event><![CDATA[249]]></event>
+							<event_start><![CDATA[09:00:00]]></event_start>
+							<event_end><![CDATA[05:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[260]]></column>
+							<event><![CDATA[249]]></event>
+							<event_start><![CDATA[11:00:00]]></event_start>
+							<event_end><![CDATA[11:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[256]]></column>
+							<event><![CDATA[251]]></event>
+							<event_start><![CDATA[09:00:00]]></event_start>
+							<event_end><![CDATA[11:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[259]]></column>
+							<event><![CDATA[251]]></event>
+							<event_start><![CDATA[09:00:00]]></event_start>
+							<event_end><![CDATA[04:50:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[261]]></column>
+							<event><![CDATA[251]]></event>
+							<event_start><![CDATA[05:00:00]]></event_start>
+							<event_end><![CDATA[06:30:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[258]]></column>
+							<event><![CDATA[252]]></event>
+							<event_start><![CDATA[08:00:00]]></event_start>
+							<event_end><![CDATA[05:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[259]]></column>
+							<event><![CDATA[252]]></event>
+							<event_start><![CDATA[10:00:00]]></event_start>
+							<event_end><![CDATA[04:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[256]]></column>
+							<event><![CDATA[252]]></event>
+							<event_start><![CDATA[11:00:00]]></event_start>
+							<event_end><![CDATA[05:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[257]]></column>
+							<event><![CDATA[252]]></event>
+							<event_start><![CDATA[04:00:00]]></event_start>
+							<event_end><![CDATA[05:30:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[258]]></column>
+							<event><![CDATA[253]]></event>
+							<event_start><![CDATA[08:00:00]]></event_start>
+							<event_end><![CDATA[03:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[260]]></column>
+							<event><![CDATA[253]]></event>
+							<event_start><![CDATA[08:00:00]]></event_start>
+							<event_end><![CDATA[03:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[261]]></column>
+							<event><![CDATA[253]]></event>
+							<event_start><![CDATA[09:00:00]]></event_start>
+							<event_end><![CDATA[05:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[259]]></column>
+							<event><![CDATA[253]]></event>
+							<event_start><![CDATA[04:00:00]]></event_start>
+							<event_end><![CDATA[05:40:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[258]]></column>
+							<event><![CDATA[254]]></event>
+							<event_start><![CDATA[10:00:00]]></event_start>
+							<event_end><![CDATA[12:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[259]]></column>
+							<event><![CDATA[254]]></event>
+							<event_start><![CDATA[10:00:00]]></event_start>
+							<event_end><![CDATA[03:30:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[258]]></column>
+							<event><![CDATA[255]]></event>
+							<event_start><![CDATA[11:00:00]]></event_start>
+							<event_end><![CDATA[01:00:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[]]></description>
+						</timeslot>
+											<timeslot>
+							<column><![CDATA[257]]></column>
+							<event><![CDATA[255]]></event>
+							<event_start><![CDATA[03:00:00]]></event_start>
+							<event_end><![CDATA[06:25:00]]></event_end>
+							<user_id><![CDATA[-1]]></user_id>
+							<description><![CDATA[]]></description>
+						</timeslot>
+								</channel>
+		</rss>
+		
