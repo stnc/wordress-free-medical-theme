@@ -2,19 +2,19 @@
 
 <a href="http://wordpresshospitaltheme.com">DEMO </a>
 
-<a href="https://github.com/stnc/wordpress-hospital-management-and-free-theme/archive/master.zip">Free Version Download</a>
+<a href="https://github.com/stnc/wordress-free-medical-theme/archive/master.zip">Free Version Download</a>
 
 <a href="http://wordpresshospitaltheme.com">Pro Version</a>
 
 ## Pro version 
 
-<img src="https://raw.githubusercontent.com/stnc/wordpress-hospital-management-and-free-theme/master/pic/main_image.jpg">
+<img src="https://raw.githubusercontent.com/stnc/wordress-free-medical-theme/master/pic/main_image.jpg">
 
 ## FREE version 
 
-<img src="https://raw.githubusercontent.com/stnc/wordpress-hospital-management-and-free-theme/master/pic/main_pictures.jpg">
+<img src="https://raw.githubusercontent.com/stnc/wordress-free-medical-theme/master/pic/main_pictures.jpg">
 
-# Pro version 
+ 
 
 	Revolution Slider (Include save 25 $)  / PRO VERSION only 15$
 	
